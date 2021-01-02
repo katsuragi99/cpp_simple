@@ -1,3 +1,4 @@
+// comment
 #include <iostream>
 #include <new>
 const int BUF = 512;
